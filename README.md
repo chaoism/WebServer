@@ -6,7 +6,7 @@
 
 3. How to implement a Web Server?
 
-4. Use json amd Restful style interface.
+4. Use json and Restful style interface.
 
 ## Reference
 
