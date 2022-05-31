@@ -1,0 +1,4 @@
+#ifndef CHAOS_BASE_LOGGING_H
+#define CHAOS_BASE_LOGGING_H
+
+#endif
